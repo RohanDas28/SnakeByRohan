@@ -19,7 +19,8 @@ OR
 ---
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
-Start The Game Using Snake.py File!
+
+```Start The Game Using Snake.exe File!```
 
 
 > **Cheats**
