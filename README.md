@@ -27,7 +27,7 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 <br>
 Press <b>Q</b> to add extra 10 points. :smile:
 
-* Follow Me On Instagram at [RohanDasYT](https://www.instagram.com/RohanDasYT)
+* Follow Me On Instagram at [RohanDasRD](https://www.instagram.com/RohanDasRD)
 * Thanks to [Harsh Trivedi](https://harsh98trivedi.github.io) for creating this README
 
 ### ThankYou!
