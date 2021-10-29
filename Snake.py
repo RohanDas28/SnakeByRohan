@@ -37,11 +37,11 @@ pygame.mixer.music.play(100)
 pygame.mixer.music.set_volume(.6)
 
 #Variables For The Game
-clock = pygame.time.Clock()
+clock = pygame.time.Clock(20)
 font = pygame.font.SysFont('Harrington', 35)
 
 def text_screen(text, color, x, y):
-   screen_text = font.render(text, True, color)
+   screen_text = font.render(text, False, color)
    gameWindow.blit(screen_text, [x,y])
 
 def plot_snake(gameWindow, color, snk_list, snake_size):
@@ -52,7 +52,7 @@ def plot_snake(gameWindow, color, snk_list, snake_size):
 #Welcome Screen
 
 def welcome():
-    exit_game = False
+    exit_game = True
     while not exit_game:
         gameWindow.blit(intro, (0,0))
         for event in pygame.event.get():
